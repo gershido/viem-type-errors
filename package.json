@@ -1,0 +1,13 @@
+{
+  "name": "temp-viem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ido",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "viem": "^1.2.6"
+  }
+}
